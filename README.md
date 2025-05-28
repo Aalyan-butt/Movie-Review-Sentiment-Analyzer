@@ -4,7 +4,7 @@
 
 A project to classify IMDb movie reviews as **Positive** or **Negative** using traditional ML models.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python\&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Scikit--learn-yellow?logo=scikit-learn)
 ![UI](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit)
@@ -101,19 +101,14 @@ python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
 ```
 
-### 3. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Train the Model
+### 3. Train the Model
 
 ```bash
 python main.py
 ```
 
-### 5. (Optional) Launch Web App
+### 4. (Optional) Launch Web App
 
 ```bash
 streamlit run app/app.py
@@ -150,7 +145,7 @@ streamlit run app/app.py
 
 ## 👤 Author
 
-**Your Name**
+**Aalyan Riasat**
 📧 [aalyanriasatali@gmail.com](mailto:your.email@example.com)
 🔗  • [GitHub](https://github.com/Aalyan-butt)
 
