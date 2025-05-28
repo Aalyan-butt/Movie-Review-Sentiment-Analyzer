@@ -44,7 +44,6 @@ movie-review-sentiment-analysis/
 ├── models/                 # Saved models (optional)
 ├── app/                    # Streamlit or Flask interface
 ├── main.py                 # Main script for training and testing
-├── requirements.txt        # Python dependencies
 ├── README.md               # Project overview and setup instructions
 
 ```
